@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alessandro Angelelli</h1>
+<p align="center">
+  <img src="https://blog.hubspot.com/hs-fs/hubfs/how-to-start-coding-1.jpg?width=893&height=600&name=how-to-start-coding-1.jpg" alt="How to Start Coding">
+</p><h1 align="center">Hi 👋, I'm Alessandro Angelelli</h1>
 <h3 align="center">🛠️ Magic Tools in My Backpack: GitHub is my digital compass, where I created and shared my code with the community. I mastered version control tools like Git, making my development journey smoother and more collaborative. 🌐 API Universe Navigator: I learned to connect my world with external APIs, be they social media or third-party services, integrating amazing features into my creations. 🧠 Continuous Learning: My mind is fertile ground, ready to absorb new technologies and methodologies. I'm always looking for new design patterns, sophisticated architectures, and best practices to constantly improve the quality of my code. 💡 Next Destinations: My map of the future includes insights into emerging technologies, to build even more revolutionary web experiences. Follow my journey on GitHub, where each commit represents a step forward in my development adventure! 🚀✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandroang&label=Profile%20views&color=0e75b6&style=flat" alt="alessandroang" /> </p>
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5ZTd2Ke-eVop8GzrqHUv0ElX581yZmpwQPvC-1wf&style=flat" alt="alessandroang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandroang" alt="alessandroang" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandroang" alt="alessandroang" /></a> </p>
 
 - 🔭 I’m currently working on **Boolean**
 
@@ -11,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alessandroang](https://github.com/Alessandroang)
 
-- 💬 Ask me about **All**
+- 💬 Ask me about **All of my projects**
 
 - 📫 How to reach me **alessandroang94@gmail.com**
 
